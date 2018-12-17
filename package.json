@@ -1,0 +1,27 @@
+{
+  "name": "node-rl",
+  "version": "1.0.0",
+  "description": "read large file by rows",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nnsay/node-rl.git"
+  },
+  "keywords": [
+    "node",
+    "read",
+    "rows"
+  ],
+  "author": "Jimmy Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnsay/node-rl/issues"
+  },
+  "homepage": "https://github.com/nnsay/node-rl#readme"
+}
